@@ -1,0 +1,1 @@
+# Programa que calcula o cirtério de divisibilidade do número inserido pelo usuário
